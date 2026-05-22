@@ -56,7 +56,7 @@ All data is stored **in-memory** using HashMap and ArrayList – no external dat
 
 | User ID |	PIN	| Starting Balance |
 |---------|-----|------------------|
-| gift | 1234 |	$2500.00 |
+| gift | 1234 |	$1000.00 |
 
 ---
 
@@ -71,10 +71,10 @@ atm-java/
 ├── src/
 │   └── atminterface/
 │       ├── ATMGUI.java    (Main class)
-│       ├── LoginScreen.java
+│       ├── LoginFrame.java
 │       ├── Dashboard.java
 │       ├── User.java
-│       └── (other .java files)
+│       └── LoginFrame.form
 └── README.md
 ```
 
